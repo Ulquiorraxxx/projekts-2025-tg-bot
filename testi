@@ -1,0 +1,13 @@
+Veiksmes scenariji: 
+- palaižot programmu tā strādā un bots reaģē uz ziņām un rādās ka tas ir online statusā
+- Ievadot komandu /start bots izdruka jaunu ziņu ar 3 tg integrētām pogām.
+
+Lietošanas scenāriji:
+- Zinot ka uzspiežot tg integrēto pogu <places> <jobs> vai <countries>, izdzēšas iepriekšējā ziņa un parādas jauna kura prasa spēlētāju skaitu.
+- Zinot ka ievadot spēlētāju skaitu 4 programma izdrukās jaunu ziņu ar integrēto tg pogu uz kuru varēs uzspiest 9 reizes un tā pazudīs
+- Zinot ka uzspiežot tg integrēto pogu <places> tad programma pēc spēlētāju skaita noteikšanas izvēlēsies vienu random vārsu kas pieder pie grupas <places>
+- Zinot ka Uzspiežot uz pogu <next> ziņas saturs mainīsies.
+
+Robežscenāriji :
+- Zinot ka ievadot spēlētāju skaitu 11 programma prasīs ievadīt vēlreiz un paziņos kādus datus tā pieņem
+- Zinot ka ievadot spēlētāju skaitu astoņi, programma prasīs ievadīt vēlreiz un pazīņos kādus datus tā pieņem
